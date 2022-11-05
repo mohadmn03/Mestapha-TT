@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e92dff1.css",
+    "main.js": "/static/js/main.5fdd0e2c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/gallery6.jpg": "/static/media/gallery6.5384362d6e935394576c.jpg",
+    "static/media/gallery2.jpg": "/static/media/gallery2.65f56f74fcc115374dd7.jpg",
+    "static/media/gallery3.jpg": "/static/media/gallery3.9a0f76447b1bb9a987fb.jpg",
+    "static/media/gallery5.jpg": "/static/media/gallery5.dc6e139194a61d254f10.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.f43096301b8530c10992.jpg",
+    "static/media/gallery4.jpg": "/static/media/gallery4.6cf8216abcc0b68b2051.jpg",
+    "static/media/services.png": "/static/media/services.9f84d2643b5d13d4912e.png",
+    "static/media/mecca.png": "/static/media/mecca.1716b73fb515f0ae3dfd.png",
+    "static/media/lazherTa3Nommi.png": "/static/media/lazherTa3Nommi.26a726506af67f680bb5.png",
+    "static/media/uae.png": "/static/media/uae.79ca543568595378dbc3.png",
+    "static/media/mosque.png": "/static/media/mosque.02bdabe10f0ad522fb45.png",
+    "static/media/kaaba.png": "/static/media/kaaba.d3f588ba3f669a6718bc.png",
+    "static/media/contactUs.png": "/static/media/contactUs.3ec2a015e867fcb9221a.png",
+    "static/media/steps.png": "/static/media/steps.dc3683ab31bd503e4c4d.png",
+    "static/media/talegKlawih.png": "/static/media/talegKlawih.bf0ec0f7be3fa5fac064.png",
+    "index.html": "/index.html",
+    "main.6e92dff1.css.map": "/static/css/main.6e92dff1.css.map",
+    "main.5fdd0e2c.js.map": "/static/js/main.5fdd0e2c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e92dff1.css",
+    "static/js/main.5fdd0e2c.js"
+  ]
+}
